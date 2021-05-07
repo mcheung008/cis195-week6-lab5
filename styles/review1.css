@@ -1,0 +1,49 @@
+body {
+    width: 100%;
+    background-image: url(../Images/1782525.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: white;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.poster {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+#quote {
+    color: red;
+    text-align: center;
+}
+
+#floatRight {
+    float: right;
+}
+
+h2 {
+    clear: right;
+}
+
+h3 {
+    float: right;
+    padding-right: 50px;
+}
+
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
