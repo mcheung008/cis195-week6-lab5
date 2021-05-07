@@ -1,6 +1,6 @@
 body {
-    width: 100%;
-    background-image: url(../Images/1782525.jpeg);
+    width: auto;
+    background-image: url(../Images/review1.jpeg);
     background-repeat: no-repeat;
     background-size: 100%;
     color: white;
@@ -46,4 +46,29 @@ a:visited {
     color: pink;
     background-color: transparent;
     text-decoration: none;
+}
+
+#main {
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-style: solid;
+    border-color: red;
+    margin: auto;
+    border-radius: 10px 10px 10px 10px;
+    position: relative;
+    bottom: 200px;
+}
+
+#header-background {
+    background-image:url(../Images/batmansymbol.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 240px;
+    z-index: auto;
+    }
+
+h1 {
+    position: relative;
+    z-index: 1;
 }

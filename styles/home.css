@@ -3,6 +3,7 @@ body {
 }
 
 #mainTitle {
+    padding-top: 150px;
     font-size: 400%;
     display: table;
     margin: 0 auto;
@@ -54,4 +55,18 @@ h2 {
 h3 {
     float: right;
     padding: 50px;
+}
+
+header {
+    background-image:url(../Images/batmansymbol.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 240px;
+    }
+
+h1 {
+    text-align: center;
+    position: relative;
+    z-index: 1;
 }
